@@ -1,3 +1,7 @@
+/* ***************************************************************************
+This is a comment about the CalcFeetAndInchesToCentimeters class/methods.
+*************************************************************************** */
+
 public class LeapYear {
 
     public static boolean isLeapYear (int year) {
